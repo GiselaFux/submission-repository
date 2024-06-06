@@ -1,0 +1,17 @@
+.contenedor{
+width:50vw;
+margin: 3vh 25vw;
+padding:2rem;
+}
+
+.textos{
+text-align: center;
+}
+
+.botones{
+text-align:center;
+padding-left:1rem;
+}
+button{
+  margin-right: 1rem;
+}

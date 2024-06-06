@@ -1,0 +1,16 @@
+body{
+   background-color:rgb(247, 247, 135);
+}
+h1{
+   margin-left:8.5rem;
+}
+.boton{
+display:flex;
+}
+button{
+   margin:3rem 3rem;
+}
+.count{
+   display:flex;
+}
+p{margin:1rem 2.5rem}

@@ -1,0 +1,30 @@
+body{
+  background-color:rgb(247, 247, 135);
+}
+h1, h2{
+  margin-left:8.5rem;
+  color:black;
+}
+
+.boton{
+display:flex;
+}
+button{
+  margin:3rem 3.25rem;
+  
+}
+.count{
+  display:flex;
+}
+.count1{
+  display:flex;
+}
+p{
+  margin:1rem 3.3rem;
+color:black;
+}
+
+.compTotal{
+  display:flex;
+  flex-direction: column;
+}
